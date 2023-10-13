@@ -4,8 +4,11 @@ project:
 
 website:
 
+# URL
+  site-url: https://vivas014.github.io/personal-website/
+
 # Title
-  title: "name of the website"
+  title: "Pablo Vivas"
 
 # Search
   search: true
@@ -17,49 +20,52 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Page 1
-      - href: index.qmd
-        text: Page 2
-      - href: index.qmd
-        text: Page 3
-      - href: index.qmd
-        text: Page 4
-      - href: about.qmd
-        text: About
+        icon: house-fill
+        text: Home
+      - href: research.qmd
+        icon: lightbulb-fill
+        text: Research & Teaching
+      # - href: index.qmd
+      #   text: Side projects
+      # - href: index.qmd
+      #   text: Data Analysis
+      # - href: about.qmd
+      #   text: CV
     right: 
-      - href: about.qmd
-        text: Find us on
+      - href: projects.qmd
+        icon: paperclip
+        text: Projects
+      - href: blog.qmd
+        icon: chat-right-text
+        text: Blog
+      - href: cv/cv-pablo-vivas.pdf
+        icon: filetype-pdf
+        text: cv
+      - icon: github
+        href: https://github.com/vivas014
+      - icon: twitter
+        href: https://twitter.com/pablovivasc
+      - icon: envelope
+        href: mailto:vivas014@umn.edu
 
 # logo  
 #    logo: "imgs/logo-seeds.jpg"
 #    logo-alt: "Alternative text
 
 # color
-    background: "#75a6d1"
+    background: "#33658A" #Lapis Lazuli
     foreground: "#FFFFFF"
 
-    tools:
-      - icon: twitter
-        href: https://twitter.com
-      - icon: tiktok
-        href: https://tiktok.com
-      - icon: facebook
-        href: https://facebook.com
-      - icon: youtube
-        href: https://youtube.com
-      - icon: instagram
-        href: https://instagram.com
-      - icon: github
-        menu:
-          - text: Source Code
-            url:  https://code.com
-          - text: Report a Bug
-            url:  https://bugs.com
+    # tools:
+    #   - icon: twitter
+    #     href: https://twitter.com/pablovivasc
+    #   - icon: github
+    #     href: https://github.com/vivas014
 
 # footer
   page-footer: 
     border: true
-    left: "Copyright 2021, " 
+    left: "Copyright 2023, Pablo Vivas" 
     # right: 
     #   - icon: github
     #     href: https://github.com/

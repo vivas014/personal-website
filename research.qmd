@@ -1,0 +1,34 @@
+---
+title: "Research & Teaching"
+#subtitle: "A bit more about me"
+title-block-banner: false
+---
+
+## Research {{< fa graduation-cap >}}
+
+Currently, I am a master student of the Statistics Education program at the [University of Minnesota](https://twin-cities.umn.edu/), under the supervision of [Dr. Chelsey Legacy](https://edpsych.umn.edu/chelsey-legacy) and [Dr. Andrew Zieffler](https://edpsych.umn.edu/andrew-zieffler). I am studying under a [Fulbright scholarship](https://foreign.fulbrightonline.org/about/foreign-student-program).
+
+For my master degree research, I am analyzing some of the psychometrics properties of the third version of the [Statistics Teacher Inventory](https://jse.amstat.org/v20n1/zieffler.pdf) (STI), a survey designed to collect information on teaching practices of introductory statistics instructors in a variety of institutions and departments across the United States post-secondary education system, so we can 1) create a better understanding of the instrument itself, 2) improve the instrument for latter versions, and 3) analyze the relationship between the latent constructs measured by the STI and the [Guidelines for Assessment and Instruction in Statistics Education](https://www.amstat.org/docs/default-source/amstat-documents/gaisecollege_full.pdf) (GAISE).
+
+I am also doing research with some cool research groups. These are: Lab Advancing Statistics Education Research (LASER)[^1], [Minnesota Youth Development Research Group](https://sites.google.com/view/mnydrg/home) (MyDrG), Development, Affective Neuroscience, Culture and Environment (DANCE)[^2]. 
+
+[^1]: Website under construction.
+[^2]: It doesn't have a website yet, but check out the information of the PI and some projects of the lab [here](https://icd.umn.edu/people/kaip/).
+
+Overall, I like to perform statistical analysis to answer questions that may have a positive impact educational settingsMy research interests can be summarize into:
+
+- 
+
+## Teaching {{< fa chalkboard-user >}}
+
+Most of my "formal" teaching has happened at the [Department of Statistics](https://estadistica.ucr.ac.cr/) at the [University of Costa Rica](https://www.ucr.ac.cr/). There, I have taught and TAed a variety of courses ranging from basic stats to mathematical statistics. Some of them are:
+
+- XS-0215: Biostatistics
+- XS-1110: Introduction to Statistics I
+- XS-1130: Introduction to Statistics II
+- XS-2330: Continuous Probabilistic Models
+- XS-3150: Statistical Principles for the Design of Experiments I
+- XS-3170: Applied Statistics for Experimental Designs
+- XS-3310: 
+
+At the [UofM](https://twin-cities.umn.edu/) 
