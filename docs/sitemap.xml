@@ -2,14 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://vivas014.github.io/personal-website/research.html</loc>
-    <lastmod>2023-10-13T20:06:25.136Z</lastmod>
+    <lastmod>2023-10-17T06:35:27.579Z</lastmod>
   </url>
   <url>
-    <loc>https://vivas014.github.io/personal-website/index.html</loc>
-    <lastmod>2023-10-13T20:06:26.461Z</lastmod>
+    <loc>https://vivas014.github.io/personal-website/projects/2023-10-17-pct/index.html</loc>
+    <lastmod>2023-10-17T06:35:26.979Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vivas014.github.io/personal-website/blog.html</loc>
+    <lastmod>2023-10-17T06:35:32.319Z</lastmod>
   </url>
   <url>
     <loc>https://vivas014.github.io/personal-website/about.html</loc>
-    <lastmod>2023-10-13T20:06:26.907Z</lastmod>
+    <lastmod>2023-10-17T06:35:25.053Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vivas014.github.io/personal-website/blog/2023-10-17-personal-website/index.html</loc>
+    <lastmod>2023-10-17T06:35:25.365Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vivas014.github.io/personal-website/index.html</loc>
+    <lastmod>2023-10-17T06:35:26.697Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vivas014.github.io/personal-website/projects.html</loc>
+    <lastmod>2023-10-17T06:35:31.416Z</lastmod>
   </url>
 </urlset>

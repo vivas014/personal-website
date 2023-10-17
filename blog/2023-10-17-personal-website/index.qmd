@@ -1,0 +1,18 @@
+---
+title: "Personal website"
+author:
+  - name: Pablo Vivas
+    url: https://vivas014.github.io/personal-website/
+    affiliation: Master Quantitative Methods in Education @ UMN
+    # affiliation-url: https://ucsb-meds.github.io/ 
+date: 17-10-2023
+# categories: [Thoughts] # self-defined categories
+# citation: 
+#   url: https://vivas014.github.io/personal-website/...conitnue
+# image: pct-hex.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+## Finally {{< fa sailboat >}}
+
+After several months thinking about going public, many hours of watching tutorials, and reviewing endless documents in the wild...I've finally decided that it is time to have my own personal website. This is a way to communicate with a broader community as well as an artifact to become tidier in the presentation of my thoughts.
