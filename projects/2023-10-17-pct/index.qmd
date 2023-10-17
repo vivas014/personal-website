@@ -14,4 +14,6 @@ image: pct-hex.png
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
+![](pct-hex.png){fig-alt='PCT hexlogo'}
+
 This is the first post of PCT.

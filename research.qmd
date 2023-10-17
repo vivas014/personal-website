@@ -12,19 +12,19 @@ Teaching and research are equally important for me. The following quote represen
 
 ## Teaching {{< fa chalkboard-user >}}
 
-Most of my "formal" teaching has happened at the [Department of Statistics](https://estadistica.ucr.ac.cr/) at the [University of Costa Rica](https://www.ucr.ac.cr/). There, I have taught and TAed a variety of courses ranging from basic stats to mathematical statistics. Some of them are:
+Most of my "formal" teaching has happened in the [Department of Statistics](https://estadistica.ucr.ac.cr/) at the [University of Costa Rica](https://www.ucr.ac.cr/). There, I have TAed and taught a variety of courses ranging from basic stats to mathematical statistics. Some of them are:
 
--   XS-0215: Biostatistics \[Fall 2019, Spring 2020, Spring 2022\]
--   XS-1110: Introduction to Statistics I \[Spring 2020, Spring 2021, Spring 2022\]
--   XS-1130: Introduction to Statistics II \[Fall 2019, Fall 2020, Summer 2020, Fall 2021\]
--   XS-2330: Continuous Probabilistic Models \[Fall 2021\]
--   XS-3150: Statistical Principles for the Design of Experiments I \[Spring 2020, Spring 2021, Spring 2022\]
--   XS-3170: Applied Statistics for Experimental Designs \[Fall 2020, Fall 2021, Fall 2022\]
--   XS-3310: Theory of Statistics \[Spring 2022\]
+-   XS-0215: Biostatistics [Fall 2019, Spring 2020, Spring 2022]
+-   XS-1110: Introduction to Statistics I [Spring 2020, Spring 2021, Spring 2022]
+-   XS-1130: Introduction to Statistics II [Fall 2019, Fall 2020, Summer 2020, Fall 2021]
+-   XS-2330: Continuous Probabilistic Models [Fall 2021]
+-   XS-3150: Statistical Principles for the Design of Experiments I [Spring 2020, Spring 2021, Spring 2022]
+-   XS-3170: Applied Statistics for Experimental Designs [Fall 2020, Fall 2021, Fall 2022]
+-   XS-3310: Theory of Statistics [Spring 2022]
 
-At the [UofM](https://twin-cities.umn.edu/) I TAed for a term and I am currently the instructor of:
+At the [U of M](https://twin-cities.umn.edu/) I TAed for a term and I am currently the instructor of:
 
--   EPSY-3264: Basic and Applied Statistics \[Spring 2022, Fall 2023\]
+-   EPSY-3264: Basic and Applied Statistics [Spring 2022, Fall 2023]
 
 For more details, check my [CV](cv/cv-pablo-vivas.pdf).
 
@@ -40,17 +40,20 @@ I am also doing research with some cool research groups. These are: Lab Advancin
 
 [^2]: It doesn't have a website yet, but check out the information of the PI and some projects of the lab [here](https://icd.umn.edu/people/kaip/).
 
-Overall, I like to get involved in all the states (from planning to monitoring, and, the most fun part, performing statistical analysis) of research that, primarily, seeks to answer questions that may have a positive impact in educational settings. My research interests can be summarize into:
+Overall, I like to get involved in all the stages (from planning to monitoring, and, the most fun part, performing statistical analysis) of research that, primarily, seeks to answer questions that may have a positive impact in educational settings. My research interests can be summarized into:
 
--   Teaching and learning of Statistics
--   Measurement on statistics education research
--   Statistics learning trajectories
--   Statistical reasoning
+- Teaching and learning of Statistics
+- Measurement on statistics education research
+- Statistics learning trajectories
+- Statistical reasoning
 
 I want to continue my formal education through a PhD program that helps me answer some of the following questions:
 
 - What is the state of teaching and learning statistics in Latin American countries at the undergraduate level?
     - How do Latin American students learn statistics?
-    - What pedagogical practices and assessments are used by Latin American statistics educators?
-    - What statics learning trajectories are employed by Latin American statistics educators?
-- 
+    - How do Latin American statistics educators teach statistics?
+    - How can GAISE provide, if at all, an useful framework to teach and learn statistics in Latin American countries?
+- How students most effectively learn and communicate statistical information through text?
+    - How natural language processing can help the statistics learning process?
+    - Which factors can influence students’ ability to learn complex statistical concepts from text?
+- How does a statistic learning trajectory look like in a introductory Bayesian class?
