@@ -4,7 +4,7 @@ description: "Scientific divulgation in Costa Rica"
 author:
   - name: Pablo Vivas
     url: https://vivas014.github.io/personal-website/
-    affiliation: Master Quantitative Methods in Education @ UMN
+    affiliation: Master student in Quantitative Methods in Education @ UMN
     # affiliation-url: https://ucsb-meds.github.io/ 
 date: 17-10-2023
 categories: [PCT, Costa Rica, Divulgation] # self-defined categories

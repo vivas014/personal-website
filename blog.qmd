@@ -6,4 +6,5 @@ listing:
   sort: "date desc" # can also sort on more than one field
   categories: false # allows you to sort posts by assigned categories 
   fields: [date, title, reading-time]
+  filter-ui: false
 ---

@@ -1,34 +1,56 @@
 ---
-title: "Research & Teaching"
+title: "Teaching & Research"
 #subtitle: "A bit more about me"
 title-block-banner: false
 ---
 
-## Research {{< fa graduation-cap >}}
+Teaching and research are equally important for me. The following quote represents my view on the matter:
 
-Currently, I am a master student of the Statistics Education program at the [University of Minnesota](https://twin-cities.umn.edu/), under the supervision of [Dr. Chelsey Legacy](https://edpsych.umn.edu/chelsey-legacy) and [Dr. Andrew Zieffler](https://edpsych.umn.edu/andrew-zieffler). I am studying under a [Fulbright scholarship](https://foreign.fulbrightonline.org/about/foreign-student-program).
-
-For my master degree research, I am analyzing some of the psychometrics properties of the third version of the [Statistics Teacher Inventory](https://jse.amstat.org/v20n1/zieffler.pdf) (STI), a survey designed to collect information on teaching practices of introductory statistics instructors in a variety of institutions and departments across the United States post-secondary education system, so we can 1) create a better understanding of the instrument itself, 2) improve the instrument for latter versions, and 3) analyze the relationship between the latent constructs measured by the STI and the [Guidelines for Assessment and Instruction in Statistics Education](https://www.amstat.org/docs/default-source/amstat-documents/gaisecollege_full.pdf) (GAISE).
-
-I am also doing research with some cool research groups. These are: Lab Advancing Statistics Education Research (LASER)[^1], [Minnesota Youth Development Research Group](https://sites.google.com/view/mnydrg/home) (MyDrG), Development, Affective Neuroscience, Culture and Environment (DANCE)[^2]. 
-
-[^1]: Website under construction.
-[^2]: It doesn't have a website yet, but check out the information of the PI and some projects of the lab [here](https://icd.umn.edu/people/kaip/).
-
-Overall, I like to perform statistical analysis to answer questions that may have a positive impact educational settingsMy research interests can be summarize into:
-
-- 
+> "I am a teacher. I am a professor. I could never do research without doing teaching. Teaching and research are one. Teaching, in fact, is the handmaiden of research. When I teach. I am forced to confront what I think is the truth. I am forced to confront it by telling my students. And they're pretty smart. And if I don't know what I'm talking about, they know it. And so, therefore, I deeply thank my students...who push me to the frontiers of knowledge every day."
+>
+> \- Professor Claudia Gilgin on winning the 2023 Nobel Memorial Prize in Economic Sciences
 
 ## Teaching {{< fa chalkboard-user >}}
 
 Most of my "formal" teaching has happened at the [Department of Statistics](https://estadistica.ucr.ac.cr/) at the [University of Costa Rica](https://www.ucr.ac.cr/). There, I have taught and TAed a variety of courses ranging from basic stats to mathematical statistics. Some of them are:
 
-- XS-0215: Biostatistics
-- XS-1110: Introduction to Statistics I
-- XS-1130: Introduction to Statistics II
-- XS-2330: Continuous Probabilistic Models
-- XS-3150: Statistical Principles for the Design of Experiments I
-- XS-3170: Applied Statistics for Experimental Designs
-- XS-3310: 
+-   XS-0215: Biostatistics \[Fall 2019, Spring 2020, Spring 2022\]
+-   XS-1110: Introduction to Statistics I \[Spring 2020, Spring 2021, Spring 2022\]
+-   XS-1130: Introduction to Statistics II \[Fall 2019, Fall 2020, Summer 2020, Fall 2021\]
+-   XS-2330: Continuous Probabilistic Models \[Fall 2021\]
+-   XS-3150: Statistical Principles for the Design of Experiments I \[Spring 2020, Spring 2021, Spring 2022\]
+-   XS-3170: Applied Statistics for Experimental Designs \[Fall 2020, Fall 2021, Fall 2022\]
+-   XS-3310: Theory of Statistics \[Spring 2022\]
 
-At the [UofM](https://twin-cities.umn.edu/) 
+At the [UofM](https://twin-cities.umn.edu/) I TAed for a term and I am currently the instructor of:
+
+-   EPSY-3264: Basic and Applied Statistics \[Spring 2022, Fall 2023\]
+
+For more details, check my [CV](cv/cv-pablo-vivas.pdf).
+
+## Research {{< fa graduation-cap >}}
+
+I am a master student of the Statistics Education program at the [University of Minnesota](https://twin-cities.umn.edu/), under the supervision of [Dr. Chelsey Legacy](https://edpsych.umn.edu/chelsey-legacy) and [Dr. Andrew Zieffler](https://edpsych.umn.edu/andrew-zieffler). I am studying under a [Fulbright scholarship](https://foreign.fulbrightonline.org/about/foreign-student-program).
+
+For my master degree research, I am analyzing some of the psychometrics properties of the third version of the [Statistics Teacher Inventory](https://jse.amstat.org/v20n1/zieffler.pdf) (STI), a survey designed to collect information on teaching practices of introductory statistics instructors in a variety of institutions and departments across the United States post-secondary education system, so we can 1) create a better understanding of the instrument itself, 2) improve the instrument for latter versions, and 3) analyze the relationship between the latent constructs measured by the STI and the [Guidelines for Assessment and Instruction in Statistics Education](https://www.amstat.org/docs/default-source/amstat-documents/gaisecollege_full.pdf) (GAISE).
+
+I am also doing research with some cool research groups. These are: Lab Advancing Statistics Education Research (LASER)[^1], [Minnesota Youth Development Research Group](https://sites.google.com/view/mnydrg/home) (MyDrG), Development, Affective Neuroscience, Culture and Environment (DANCE)[^2].
+
+[^1]: Website under construction.
+
+[^2]: It doesn't have a website yet, but check out the information of the PI and some projects of the lab [here](https://icd.umn.edu/people/kaip/).
+
+Overall, I like to get involved in all the states (from planning to monitoring, and, the most fun part, performing statistical analysis) of research that, primarily, seeks to answer questions that may have a positive impact in educational settings. My research interests can be summarize into:
+
+-   Teaching and learning of Statistics
+-   Measurement on statistics education research
+-   Statistics learning trajectories
+-   Statistical reasoning
+
+I want to continue my formal education through a PhD program that helps me answer some of the following questions:
+
+- What is the state of teaching and learning statistics in Latin American countries at the undergraduate level?
+    - How do Latin American students learn statistics?
+    - What pedagogical practices and assessments are used by Latin American statistics educators?
+    - What statics learning trajectories are employed by Latin American statistics educators?
+- 

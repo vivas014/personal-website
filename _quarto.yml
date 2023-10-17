@@ -24,7 +24,7 @@ website:
         text: Home
       - href: research.qmd
         icon: lightbulb-fill
-        text: Research & Teaching
+        text: Teaching & Research
       # - href: index.qmd
       #   text: Side projects
       # - href: index.qmd
