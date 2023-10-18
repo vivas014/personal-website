@@ -1,0 +1,21 @@
+---
+title: "Book review: The book of Why"
+author:
+  - name: Pablo Vivas
+    url: https://vivas014.github.io/personal-website/
+    affiliation: Master student in Quantitative Methods in Education @ UMN
+    # affiliation-url: https://ucsb-meds.github.io/ 
+date: 10-16-2023
+categories: [Book] # self-defined categories
+# citation: 
+#   url: https://vivas014.github.io/personal-website/...conitnue
+# image: pct-hex.png
+toc: true
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+# Book review {{< fa book-bookmark >}}
+
+I just bought my own physical copy of [The book of Why](https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/046509760X) by Judea Pearl and Dana Mackenzie. In the past, I have read several sections of this book, even whole chapters, but never in a linear and *tidy* way (this is a constant in many aspects of my life). So, I think that creating a small summary of each chapter with my own word, and making it really informal, can be beneficial to start thinking about cause-effect research. I wonder this can be implemented in a classroom. Also, I need to deeply understand the $do$ operator so expressions like $P(L|do(D))$ like the one in the introduction really makes sense.
+
+## Chapter 1: The Ladder of causation
