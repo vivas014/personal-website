@@ -6,7 +6,7 @@ author:
     url: https://vivas014.github.io/personal-website/
     affiliation: Master student in Quantitative Methods in Education @ UMN
     # affiliation-url: https://ucsb-meds.github.io/ 
-date: 17-10-2023
+date: 04-20-2023
 categories: [PCT, Costa Rica, Divulgation] # self-defined categories
 # citation: 
 #   url: https://vivas014.github.io/personal-website/...conitnue
