@@ -11,9 +11,21 @@ categories: [PCT, Costa Rica, Divulgation] # self-defined categories
 # citation: 
 #   url: https://vivas014.github.io/personal-website/...conitnue
 image: pct-hex.png
-draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+draft: false 
 ---
 
-![](pct-hex.png){fig-alt='PCT hexlogo'}
+![](pct-hex.png){fig-alt="PCT hexlogo" fig-align="center" width="195"}
 
-This is the first post of PCT.
+Pura Ciencia Tica[^1] (hereinafter referred to as PCT) is a scientific divulgation project which aims to communicate to a broader community, the results of the high-quality research conducted by brilliant Costa Rican researcher and scientists in a variety of fields.
+
+[^1]: My best shot at translating this is: *Costa Rican best science*
+
+Emily Espinoza and Pablo Vivas, creators of the projects, are sons of the Costa Rican public educational system. They had to rely on public funding, such as scholarships, to continue their education from elementary school to college. After several years of studying, they recognized the importance of making scientific knowledge accessible to the public.
+
+By interviews with the researchers, round tables, podcasts, tiktoks and other multimedia materials, PCT tries to break down complex concepts into easily digestible parts for the general public. This not only promotes the understanding of scientific advancements but also highlights the dedication and passion of Costa Rican scientists and researchers. The platform also aims to serve as an inspiration for young Costa Ricans, demonstrating that with determination and the right support, they can also contribute to the global scientific community in a variety of fields.
+
+Emily Espinoza and Pablo Vivas believe that by bridging the gap between researchers and the general public, PCT can foster a culture of curiosity, innovation, and appreciation for science in Costa Rica. Their journey, from beneficiaries of the public education system to advocates for scientific divulgation, is a testament to the transformative power of knowledge and the potential it holds for future generations.
+
+It is worth mentioning that PCT is still under development. However, both Emily and Pablo are happy and eager to see it grow and evolve. They understand that building a platform of this magnitude requires time, effort, and continuous adaptation to the ever-changing landscape of science and technology.
+
+Any comment or suggestion would be very much appreciated. Contact us [here](mailto:emily.espinoza.mora@gmail.com,vivascorralespablo@gmail.com).
