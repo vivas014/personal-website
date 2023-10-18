@@ -1,0 +1,21 @@
+---
+title: "Thesis: Factors influencing tennis' match results"
+description: "Data analysis for tennis matches data"
+author:
+  - name: Pablo Vivas
+    url: https://vivas014.github.io/personal-website/
+    affiliation: Master student in Quantitative Methods in Education @ UMN
+    # affiliation-url: https://ucsb-meds.github.io/ 
+date: 02-28-2022
+categories: [Thesis, Costa Rica, Tennis] # self-defined categories
+# citation: 
+#   url: https://vivas014.github.io/personal-website/...conitnue
+image: tennis.png
+draft: false 
+---
+
+::: {#fig:tennis-dalle}
+![Source: image created with OpenAI's DALL·E](tennis.png){fig-alt="tennis" fig-align="center" width="416"}
+:::
+
+This page will (shortly) present the data analysis made for a thesis that aimed to understand which factor are influencing tennis' match results.

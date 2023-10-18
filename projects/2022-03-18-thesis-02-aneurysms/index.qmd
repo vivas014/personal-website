@@ -1,0 +1,21 @@
+---
+title: "Thesis: Analysis of brain aneurysm"
+description: "Data analysis for brain aneurysm data"
+author:
+  - name: Pablo Vivas
+    url: https://vivas014.github.io/personal-website/
+    affiliation: Master student in Quantitative Methods in Education @ UMN
+    # affiliation-url: https://ucsb-meds.github.io/ 
+date: 03-18-2022
+categories: [Thesis, Costa Rica, Hospital] # self-defined categories
+# citation: 
+#   url: https://vivas014.github.io/personal-website/...conitnue
+image: neuro-01.png
+draft: false 
+---
+
+::: {#fig:tennis-dalle}
+![Source: image created with OpenAI's DALL·E](neuro-01.png){fig-alt="neuro-01" fig-align="center" width="416"}
+:::
+
+This page will (shortly) present the data analysis made for a thesis that aimed to understand brain aneurysm in a Costa Rican cohort.
