@@ -14,13 +14,13 @@ Teaching and research are equally important for me. The following quote represen
 
 Most of my "formal" teaching has happened in the [Department of Statistics](https://estadistica.ucr.ac.cr/) at the [University of Costa Rica](https://www.ucr.ac.cr/). There, I have TAed and taught a variety of courses ranging from basic stats to mathematical statistics. Some of them are:
 
--   XS-0215: Biostatistics [Fall 2019, Spring 2020, Spring 2022]
--   XS-1110: Introduction to Statistics I [Spring 2020, Spring 2021, Spring 2022]
--   XS-1130: Introduction to Statistics II [Fall 2019, Fall 2020, Summer 2020, Fall 2021]
--   XS-2330: Continuous Probabilistic Models [Fall 2021]
--   XS-3150: Statistical Principles for the Design of Experiments I [Spring 2020, Spring 2021, Spring 2022]
--   XS-3170: Applied Statistics for Experimental Designs [Fall 2020, Fall 2021, Fall 2022]
--   XS-3310: Theory of Statistics [Spring 2022]
+-   XS-0215: Biostatistics
+-   XS-1110: Introduction to Statistics I
+-   XS-1130: Introduction to Statistics II
+-   XS-2330: Continuous Probabilistic Models
+-   XS-3150: Statistical Principles for the Design of Experiments I
+-   XS-3170: Applied Statistics for Experimental Designs
+-   XS-3310: Theory of Statistics
 
 At the [U of M](https://twin-cities.umn.edu/) I TAed for a term and I am currently the instructor of:
 
