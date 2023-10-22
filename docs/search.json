@@ -11,7 +11,7 @@
     "href": "research.html#teaching-fa-chalkboard-user",
     "title": "Teaching & Research",
     "section": "Teaching ",
-    "text": "Teaching \nMost of my “formal” teaching has happened in the Department of Statistics at the University of Costa Rica. There, I have TAed and taught a variety of courses ranging from basic stats to mathematical statistics. Some of them are:\n\nXS-0215: Biostatistics [Fall 2019, Spring 2020, Spring 2022]\nXS-1110: Introduction to Statistics I [Spring 2020, Spring 2021, Spring 2022]\nXS-1130: Introduction to Statistics II [Fall 2019, Fall 2020, Summer 2020, Fall 2021]\nXS-2330: Continuous Probabilistic Models [Fall 2021]\nXS-3150: Statistical Principles for the Design of Experiments I [Spring 2020, Spring 2021, Spring 2022]\nXS-3170: Applied Statistics for Experimental Designs [Fall 2020, Fall 2021, Fall 2022]\nXS-3310: Theory of Statistics [Spring 2022]\n\nAt the U of M I TAed for a term and I am currently the instructor of:\n\nEPSY-3264: Basic and Applied Statistics [Spring 2022, Fall 2023]\n\nFor more details, check my CV."
+    "text": "Teaching \nMost of my “formal” teaching has happened in the Department of Statistics at the University of Costa Rica. There, I have TAed and taught a variety of courses ranging from basic stats to mathematical statistics. Some of them are:\n\nXS-0215: Biostatistics\nXS-1110: Introduction to Statistics I\nXS-1130: Introduction to Statistics II\nXS-2330: Continuous Probabilistic Models\nXS-3150: Statistical Principles for the Design of Experiments I\nXS-3170: Applied Statistics for Experimental Designs\nXS-3310: Theory of Statistics\n\nAt the U of M I TAed for a term and I am currently the instructor of:\n\nEPSY-3264: Basic and Applied Statistics [Spring 2022, Fall 2023]\n\nFor more details, check my CV."
   },
   {
     "objectID": "research.html#research-fa-graduation-cap",
@@ -42,32 +42,25 @@
     "text": "Footnotes\n\n\nMy best shot at translating this is: Costa Rican best science↩︎"
   },
   {
-    "objectID": "projects/2022-03-18-thesis-02-aneurysms/index.html",
-    "href": "projects/2022-03-18-thesis-02-aneurysms/index.html",
-    "title": "Thesis: Analysis of brain aneurysm",
+    "objectID": "projects/2022-10-01-catalyst-translation/index.html",
+    "href": "projects/2022-10-01-catalyst-translation/index.html",
+    "title": "Translation: Pensamiento Estadístico",
     "section": "",
-    "text": "Source: image created with OpenAI’s DALL·E\n\n\n\nThis page will (shortly) present the data analysis made for a thesis that aimed to understand brain aneurysm in a Costa Rican cohort."
+    "text": "Source: Andrew Zieffler’s CATALYSTS FOR CHANGE project\n\n\n\nDr. Vimal Rao and I are creating statistics resources for a broader community. This project consists in the translation into Spanish of the Zieffler’s CATALYSTS FOR CHANGE project. The first vertion of the translated book can be founded here."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Pablo Vivas",
+    "objectID": "projects/2022-02-28-thesis-01-tennis/index.html",
+    "href": "projects/2022-02-28-thesis-01-tennis/index.html",
+    "title": "Thesis: Factors influencing tennis’ match results",
     "section": "",
-    "text": "I’m Pablo. I am an enthusiastic Statistics educator and StatEd1 researcher. I love anything related to teaching and learning statistics (or as people in the wild call it: data science). I truly enjoy discussing stats with people from other fields, especially medical-related  and cognitive-related  fields. I am also passionate about scientific divulgation and breaking down “complicated processes” into simple pieces so anyone can digest them. Knowledge should be accessible to anyone. My attention span is limited, that is why I am involved in………Gosh.!! I forgot what I was going to say.\nAnyway, I am working hard so I can foster good students, awesome researchers, and outstanding data-thinkers.\nI am very lucky to be surrounded, at this stage in my life, with people who bear my not-at-all-brilliant questions and are willing to discuss, virtually anything. These awesome people are, mostly, in the Quantitative Methods in Education program and the Psychological foundations of education program.\nNose around my website to learn more….You might find something interesting 🤔. Disclaimer: It is still under construction but I will upload several projects and ideas I’ve worked on.\nLast updated: 2023-10-18"
+    "text": "Source: image created with OpenAI’s DALL·E\n\n\n\nThis page will (shortly) present the data analysis made for a thesis that aimed to understand which factor are influencing tennis’ match results."
   },
   {
-    "objectID": "index.html#footnotes",
-    "href": "index.html#footnotes",
-    "title": "Pablo Vivas",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nshort for Statistics Education↩︎"
-  },
-  {
-    "objectID": "blog/2023-10-16-the-book-of-why/index.html",
-    "href": "blog/2023-10-16-the-book-of-why/index.html",
-    "title": "Book review: The book of Why",
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog entries",
     "section": "",
-    "text": "I just bought my own physical copy of The book of Why by Judea Pearl and Dana Mackenzie. In the past, I have read several sections of this book, even chapters, but never in a linear and tidy way (this is a constant in many aspects of my life). So, I think that creating a small summary of each chapter with my own word can be beneficial to start thinking about cause-effect research. I wonder this can be implemented in a classroom. Also, I need to deeply understand the \\(do\\) operator so expressions like \\(P(L|do(D))\\) like the one in the introduction really makes sense."
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nReading Time\n\n\n\n\n\n\nOct 16, 2023\n\n\nBook review: The book of Why\n\n\n1 min\n\n\n\n\nOct 15, 2023\n\n\nPersonal website\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "blog/2023-10-15-personal-website/index.html",
@@ -84,18 +77,32 @@
     "text": "After several months thinking about going public, many hours of watching YouTube tutorials, and reviewing endless documents in the wild (some that I really liked and will highlight at some point)…I’ve finally decided that it is time to have my own personal public website. This is a way to communicate with a broader community as well as an artifact to become tidier in the presentation of my thoughts.\nAlso, and perhaps the most important fact, I will be forced to write. Writing has never been my strongest suit. It doesn’t matter if it is English, Spanish or Portuguese, my writing skills have always haunted me. So, what is the best way to get better at something? Of course: by practicing it.\nThat is why I am willing to make mistakes, to make typos, to place myself into this uncomfortable situation. What is the worst that can happen? 🧑‍💻"
   },
   {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog entries",
+    "objectID": "blog/2023-10-16-the-book-of-why/index.html",
+    "href": "blog/2023-10-16-the-book-of-why/index.html",
+    "title": "Book review: The book of Why",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nReading Time\n\n\n\n\n\n\nOct 16, 2023\n\n\nBook review: The book of Why\n\n\n1 min\n\n\n\n\nOct 15, 2023\n\n\nPersonal website\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
+    "text": "I just bought my own physical copy of The book of Why by Judea Pearl and Dana Mackenzie. In the past, I have read several sections of this book, even whole chapters, but never in a linear and tidy way (this is a constant in many aspects of my life). So, I think that creating a small summary of each chapter with my own word, and making it really informal, can be beneficial to start thinking about cause-effect research. I wonder this can be implemented in a classroom. Also, I need to deeply understand the \\(do\\) operator so expressions like \\(P(L|do(D))\\) like the one in the introduction really makes sense."
   },
   {
-    "objectID": "projects/2022-02-28-thesis-01-tennis/index.html",
-    "href": "projects/2022-02-28-thesis-01-tennis/index.html",
-    "title": "Thesis: Factors influencing tennis’ match results",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Pablo Vivas",
     "section": "",
-    "text": "Source: image created with OpenAI’s DALL·E\n\n\n\nThis page will (shortly) present the data analysis made for a thesis that aimed to understand which factor are influencing tennis’ match results."
+    "text": "I’m Pablo. I am an enthusiastic Statistics educator and StatEd1 researcher. I love anything related to teaching and learning statistics (or as people in the wild call it: data science). I truly enjoy discussing stats with people from other fields, especially medical-related  and cognitive-related  fields. I am also passionate about scientific divulgation and breaking down “complicated processes” into simple pieces so anyone can digest them. Knowledge should be accessible to anyone. My attention span is limited, that is why I am involved in………Gosh.!! I forgot what I was going to say.\nAnyway, I am working hard so I can foster good students, awesome researchers, and outstanding data-thinkers.\nI am very lucky to be surrounded, at this stage in my life, with people who bear my not-at-all-brilliant questions and are willing to discuss, virtually anything. These awesome people are, mostly, in the Quantitative Methods in Education program and the Psychological foundations of education program.\nNose around my website to learn more….You might find something interesting 🤔. Disclaimer: It is still under construction but I will upload several projects and ideas I’ve worked on.\nLast updated: 2023-10-22"
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "Pablo Vivas",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nshort for Statistics Education↩︎"
+  },
+  {
+    "objectID": "projects/2022-03-18-thesis-02-aneurysms/index.html",
+    "href": "projects/2022-03-18-thesis-02-aneurysms/index.html",
+    "title": "Thesis: Analysis of brain aneurysm",
+    "section": "",
+    "text": "Source: image created with OpenAI’s DALL·E\n\n\n\nThis page will (shortly) present the data analysis made for a thesis that aimed to understand brain aneurysm in a Costa Rican cohort."
   },
   {
     "objectID": "projects/2023-09-19-thesis-03-tumors/index.html",
@@ -109,6 +116,6 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Thesis: Analysis of brain tumors\n\n\n\nThesis\n\n\nCosta Rica\n\n\nHospital\n\n\n\nData analysis for brain tumors data\n\n\n\nPablo Vivas\n\n\nSep 19, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPura Ciencia Tica\n\n\n\nPCT\n\n\nCosta Rica\n\n\nDivulgation\n\n\n\nScientific divulgation in Costa Rica\n\n\n\nPablo Vivas\n\n\nApr 20, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThesis: Analysis of brain aneurysm\n\n\n\nThesis\n\n\nCosta Rica\n\n\nHospital\n\n\n\nData analysis for brain aneurysm data\n\n\n\nPablo Vivas\n\n\nMar 18, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThesis: Factors influencing tennis’ match results\n\n\n\nThesis\n\n\nCosta Rica\n\n\nTennis\n\n\n\nData analysis for tennis matches data\n\n\n\nPablo Vivas\n\n\nFeb 28, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Thesis: Analysis of brain tumors\n\n\n\nThesis\n\n\nCosta Rica\n\n\nHospital\n\n\n\nData analysis for brain tumors data\n\n\n\nPablo Vivas\n\n\nSep 19, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPura Ciencia Tica\n\n\n\nPCT\n\n\nCosta Rica\n\n\nDivulgation\n\n\n\nScientific divulgation in Costa Rica\n\n\n\nPablo Vivas\n\n\nApr 20, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThesis: Analysis of brain aneurysm\n\n\n\nThesis\n\n\nCosta Rica\n\n\nHospital\n\n\n\nData analysis for brain aneurysm data\n\n\n\nPablo Vivas\n\n\nMar 18, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTranslation: Pensamiento Estadístico\n\n\n\nTranslation\n\n\nSpanish\n\n\nStatistics\n\n\n\nRecursos en español para enseña estadística\n\n\n\nPablo Vivas\n\n\nMar 18, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThesis: Factors influencing tennis’ match results\n\n\n\nThesis\n\n\nCosta Rica\n\n\nTennis\n\n\n\nData analysis for tennis matches data\n\n\n\nPablo Vivas\n\n\nFeb 28, 2022\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
