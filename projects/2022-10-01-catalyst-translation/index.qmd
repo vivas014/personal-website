@@ -1,0 +1,21 @@
+---
+title: "Translation: Pensamiento Estadístico"
+description: "Recursos en español para enseña estadística"
+author:
+  - name: Pablo Vivas
+    url: https://vivas014.github.io/personal-website/
+    affiliation: Master student in Quantitative Methods in Education @ UMN
+    # affiliation-url: https://ucsb-meds.github.io/ 
+date: 03-18-2022
+categories: [Translation, Spanish, Statistics] # self-defined categories
+# citation: 
+#   url: https://vivas014.github.io/personal-website/...conitnue
+image: catalyst.png
+draft: false 
+---
+
+::: {#fig:tennis-dalle}
+![Source: Andrew Zieffler's [CATALYSTS FOR CHANGE project](https://github.com/zief0002/statistical-thinking)](catalyst.png){fig-alt="neuro-01" fig-align="center" width="416"}
+:::
+
+[Dr. Vimal Rao](https://raovnv.github.io/) and I are creating statistics resources for a broader community. This project consists in the translation into Spanish of the Zieffler's [CATALYSTS FOR CHANGE project](https://github.com/zief0002/statistical-thinking). The first vertion of the translated book can be founded [here.](https://raovnv.github.io/pensamiento-estadistico/)
