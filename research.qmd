@@ -12,7 +12,7 @@ Teaching and research are equally important for me. The following quote represen
 
 ## Teaching {{< fa chalkboard-user >}}
 
-Most of my "formal" teaching has happened in the [Department of Statistics](https://estadistica.ucr.ac.cr/) at the [University of Costa Rica](https://www.ucr.ac.cr/). There, I have TAed and taught a variety of courses ranging from basic stats to mathematical statistics. Some of them are:
+Most of my "formal" teaching has happened in the [Department of Statistics](https://estadistica.ucr.ac.cr/) at the [University of Costa Rica](https://www.ucr.ac.cr/). There, I have taught and TAed a variety of courses ranging from basic stats to mathematical statistics. Some of them are:
 
 -   XS-0215: Biostatistics
 -   XS-1110: Introduction to Statistics I
@@ -22,9 +22,9 @@ Most of my "formal" teaching has happened in the [Department of Statistics](http
 -   XS-3170: Applied Statistics for Experimental Designs
 -   XS-3310: Theory of Statistics
 
-At the [U of M](https://twin-cities.umn.edu/) I TAed for a term and I am currently the instructor of:
+At the [University of Minnesota](https://twin-cities.umn.edu/) I am currently the instructor of:
 
--   EPSY-3264: Basic and Applied Statistics [Spring 2022, Fall 2023]
+-   EPSY-3264: Basic and Applied Statistics
 
 For more details, check my [CV](cv/cv-pablo-vivas.pdf).
 
@@ -34,7 +34,7 @@ I am a master student of the Statistics Education program at the [University of 
 
 For my master degree research, I am analyzing some of the psychometrics properties of the third version of the [Statistics Teacher Inventory](https://jse.amstat.org/v20n1/zieffler.pdf) (STI), a survey designed to collect information on teaching practices of introductory statistics instructors in a variety of institutions and departments across the United States post-secondary education system, so we can 1) create a better understanding of the instrument itself, 2) improve the instrument for latter versions, and 3) analyze the relationship between the latent constructs measured by the STI and the [Guidelines for Assessment and Instruction in Statistics Education](https://www.amstat.org/docs/default-source/amstat-documents/gaisecollege_full.pdf) (GAISE).
 
-I am also doing research with some cool research groups. These are: Lab Advancing Statistics Education Research (LASER)[^1], [Minnesota Youth Development Research Group](https://sites.google.com/view/mnydrg/home) (MyDrG), Development, Affective Neuroscience, Culture and Environment (DANCE)[^2].
+I am also doing research with some cool research groups. These are: Lab Advancing Statistics Education Research (LASER)[https://laser-umn.github.io/], [Minnesota Youth Development Research Group](https://sites.google.com/view/mnydrg/home) (MyDrG), Development, Affective Neuroscience, Culture and Environment (DANCE)[^2].
 
 [^1]: Website under construction.
 
