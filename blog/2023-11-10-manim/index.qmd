@@ -1,0 +1,19 @@
+---
+title: "Mathematics animation"
+author:
+  - name: Pablo Vivas
+    url: https://vivas014.github.io/personal-website/
+    affiliation: Master student in Quantitative Methods in Education @ UMN
+    # affiliation-url: https://ucsb-meds.github.io/ 
+date: 10-16-2023
+categories: [Video] # self-defined categories
+# citation: 
+#   url: https://vivas014.github.io/personal-website/...conitnue
+# image: pct-hex.png
+toc: true
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+# Animations {{< fa file-video >}}
+
+I've always loved mathematics videos. Ever since my first calculus class, I looked for videos where the subject at hand could be portrayed. Soon, I realized the vast amount of resources in the wild. No one can deny that in the top-tier of math videos, 3b1b can be found. The narrative, the animations, I mean, everything about those videos are hard to compete against. They are just awesome. My favorite so far is the one about the monster group. Anyways, I've been trying to use the manim engine to make my own animations, and I think that the project of algorithmic modeling is a good excuse to learn more and create some resources. Let's see how it goes.
