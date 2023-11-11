@@ -11,21 +11,28 @@
     "href": "research.html#teaching-fa-chalkboard-user",
     "title": "Teaching & Research",
     "section": "Teaching ",
-    "text": "Teaching \nMost of my “formal” teaching has happened in the Department of Statistics at the University of Costa Rica. There, I have TAed and taught a variety of courses ranging from basic stats to mathematical statistics. Some of them are:\n\nXS-0215: Biostatistics\nXS-1110: Introduction to Statistics I\nXS-1130: Introduction to Statistics II\nXS-2330: Continuous Probabilistic Models\nXS-3150: Statistical Principles for the Design of Experiments I\nXS-3170: Applied Statistics for Experimental Designs\nXS-3310: Theory of Statistics\n\nAt the U of M I TAed for a term and I am currently the instructor of:\n\nEPSY-3264: Basic and Applied Statistics [Spring 2022, Fall 2023]\n\nFor more details, check my CV."
+    "text": "Teaching \nMost of my “formal” teaching has happened in the Department of Statistics at the University of Costa Rica. There, I have taught and TAed a variety of courses ranging from basic stats to mathematical statistics. Some of them are:\n\nXS-0215: Biostatistics\nXS-1110: Introduction to Statistics I\nXS-1130: Introduction to Statistics II\nXS-2330: Continuous Probabilistic Models\nXS-3150: Statistical Principles for the Design of Experiments I\nXS-3170: Applied Statistics for Experimental Designs\nXS-3310: Theory of Statistics\n\nAt the University of Minnesota I am currently the instructor of:\n\nEPSY-3264: Basic and Applied Statistics\n\nFor more details, check my CV."
   },
   {
     "objectID": "research.html#research-fa-graduation-cap",
     "href": "research.html#research-fa-graduation-cap",
     "title": "Teaching & Research",
     "section": "Research ",
-    "text": "Research \nI am a master student of the Statistics Education program at the University of Minnesota, under the supervision of Dr. Chelsey Legacy and Dr. Andrew Zieffler. I am studying under a Fulbright scholarship.\nFor my master degree research, I am analyzing some of the psychometrics properties of the third version of the Statistics Teacher Inventory (STI), a survey designed to collect information on teaching practices of introductory statistics instructors in a variety of institutions and departments across the United States post-secondary education system, so we can 1) create a better understanding of the instrument itself, 2) improve the instrument for latter versions, and 3) analyze the relationship between the latent constructs measured by the STI and the Guidelines for Assessment and Instruction in Statistics Education (GAISE).\nI am also doing research with some cool research groups. These are: Lab Advancing Statistics Education Research (LASER)1, Minnesota Youth Development Research Group (MyDrG), Development, Affective Neuroscience, Culture and Environment (DANCE)2.\nOverall, I like to get involved in all the stages (from planning to monitoring, and, the most fun part, performing statistical analysis) of research that, primarily, seeks to answer questions that may have a positive impact in educational settings. My research interests can be summarized into:\n\nTeaching and learning of Statistics\nMeasurement on statistics education research\nStatistics learning trajectories\nStatistical reasoning\n\nI want to continue my formal education through a PhD program that helps me answer some of the following questions:\n\nWhat is the state of teaching and learning statistics in Latin American countries at the undergraduate level?\n\nHow do Latin American students learn statistics?\nHow do Latin American statistics educators teach statistics?\nHow can GAISE provide, if at all, an useful framework to teach and learn statistics in Latin American countries?\n\nHow students most effectively learn and communicate statistical information through text?\n\nHow natural language processing can help the statistics learning process?\nWhich factors can influence students’ ability to learn complex statistical concepts from text?\n\nHow does a statistic learning trajectory look like in a introductory Bayesian class?"
+    "text": "Research \nI am a master student of the Statistics Education program at the University of Minnesota, under the supervision of Dr. Chelsey Legacy and Dr. Andrew Zieffler. I am studying under a Fulbright scholarship.\nFor my master degree research, I am analyzing some of the psychometrics properties of the third version of the Statistics Teacher Inventory (STI), a survey designed to collect information on teaching practices of introductory statistics instructors in a variety of institutions and departments across the United States post-secondary education system, so we can 1) create a better understanding of the instrument itself, 2) improve the instrument for latter versions, and 3) analyze the relationship between the latent constructs measured by the STI and the Guidelines for Assessment and Instruction in Statistics Education (GAISE).\nI am also doing research with some cool research groups. These are: Lab Advancing Statistics Education Research (LASER)[https://laser-umn.github.io/], Minnesota Youth Development Research Group (MyDrG), Development, Affective Neuroscience, Culture and Environment (DANCE)1.\nOverall, I like to get involved in all the stages (from planning to monitoring, and, the most fun part, performing statistical analysis) of research that, primarily, seeks to answer questions that may have a positive impact in educational settings. My research interests can be summarized into:\n\nTeaching and learning of Statistics\nMeasurement on statistics education research\nStatistics learning trajectories\nStatistical reasoning\n\nI want to continue my formal education through a PhD program that helps me answer some of the following questions:\n\nWhat is the state of teaching and learning statistics in Latin American countries at the undergraduate level?\n\nHow do Latin American students learn statistics?\nHow do Latin American statistics educators teach statistics?\nHow can GAISE provide, if at all, an useful framework to teach and learn statistics in Latin American countries?\n\nHow students most effectively learn and communicate statistical information through text?\n\nHow natural language processing can help the statistics learning process?\nWhich factors can influence students’ ability to learn complex statistical concepts from text?\n\nHow does a statistic learning trajectory look like in a introductory Bayesian class?"
   },
   {
     "objectID": "research.html#footnotes",
     "href": "research.html#footnotes",
     "title": "Teaching & Research",
     "section": "Footnotes",
-    "text": "Footnotes\n\n\nWebsite under construction.↩︎\nIt doesn’t have a website yet, but check out the information of the PI and some projects of the lab here.↩︎"
+    "text": "Footnotes\n\n\nIt doesn’t have a website yet, but check out the information of the PI and some projects of the lab here.↩︎"
+  },
+  {
+    "objectID": "projects/2022-03-18-thesis-02-aneurysms/index.html",
+    "href": "projects/2022-03-18-thesis-02-aneurysms/index.html",
+    "title": "Thesis: Analysis of brain aneurysm",
+    "section": "",
+    "text": "Source: image created with OpenAI’s DALL·E\n\n\n\nThis page will (shortly) present the data analysis made for a thesis that aimed to understand brain aneurysm in a Costa Rican cohort."
   },
   {
     "objectID": "projects/2023-10-17-pct/index.html",
@@ -49,6 +56,13 @@
     "text": "Source: Andrew Zieffler’s CATALYSTS FOR CHANGE project\n\n\n\nDr. Vimal Rao and I are creating statistics resources for a broader community. This project consists in the translation into Spanish of the Zieffler’s CATALYSTS FOR CHANGE project. The first version of the translated book can be founded here."
   },
   {
+    "objectID": "projects/2023-09-19-thesis-03-tumors/index.html",
+    "href": "projects/2023-09-19-thesis-03-tumors/index.html",
+    "title": "Thesis: Analysis of brain tumors",
+    "section": "",
+    "text": "Source: image created with OpenAI’s DALL·E\n\n\n\nThis page will (shortly) present the data analysis made for a thesis that aimed to understand brain tumors in a Costa Rican cohort."
+  },
+  {
     "objectID": "projects/2022-02-28-thesis-01-tennis/index.html",
     "href": "projects/2022-02-28-thesis-01-tennis/index.html",
     "title": "Thesis: Factors influencing tennis’ match results",
@@ -56,11 +70,25 @@
     "text": "Source: image created with OpenAI’s DALL·E\n\n\n\nThis page will (shortly) present the data analysis made for a thesis that aimed to understand which factor are influencing tennis’ match results."
   },
   {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog entries",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nReading Time\n\n\n\n\n\n\nOct 16, 2023\n\n\nBook review: The book of Why\n\n\n1 min\n\n\n\n\nOct 16, 2023\n\n\nMathematics animation\n\n\n1 min\n\n\n\n\nOct 15, 2023\n\n\nPersonal website\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
+    "text": "Thesis: Analysis of brain tumors\n\n\n\nThesis\n\n\nCosta Rica\n\n\nHospital\n\n\n\nData analysis for brain tumors data\n\n\n\nPablo Vivas\n\n\nSep 19, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPura Ciencia Tica\n\n\n\nPCT\n\n\nCosta Rica\n\n\nDivulgation\n\n\n\nScientific divulgation in Costa Rica\n\n\n\nPablo Vivas\n\n\nApr 20, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThesis: Analysis of brain aneurysm\n\n\n\nThesis\n\n\nCosta Rica\n\n\nHospital\n\n\n\nData analysis for brain aneurysm data\n\n\n\nPablo Vivas\n\n\nMar 18, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTranslation: Pensamiento Estadístico\n\n\n\nTranslation\n\n\nSpanish\n\n\nStatistics\n\n\n\nRecursos en español para enseña estadística\n\n\n\nPablo Vivas\n\n\nMar 18, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThesis: Factors influencing tennis’ match results\n\n\n\nThesis\n\n\nCosta Rica\n\n\nTennis\n\n\n\nData analysis for tennis matches data\n\n\n\nPablo Vivas\n\n\nFeb 28, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Pablo Vivas",
+    "section": "",
+    "text": "I’m Pablo. I am an enthusiastic Statistics educator and StatEd1 researcher. I love anything related to teaching and learning statistics (or as people in the wild call it: data science). I truly enjoy discussing stats with people from other fields, especially medical-related  and cognitive-related  fields. I am also passionate about scientific divulgation and breaking down “complicated processes” into simple pieces so anyone can digest them. Knowledge should be accessible to anyone. My attention span is limited, that is why I am involved in………Gosh.!! I forgot what I was going to say.\nAnyway, I am working hard so I can foster good students, awesome researchers, and outstanding data-thinkers.\nI am very lucky to be surrounded, at this stage in my life, with people who bear my not-at-all-brilliant questions and are willing to discuss, virtually anything. These awesome people are, mostly, in the Quantitative Methods in Education program and the Psychological foundations of education program.\nNose around my website to learn more….You might find something interesting 🤔. Disclaimer: It is still under construction but I will upload several projects and ideas I’ve worked on.\nLast updated: 2023-11-11"
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "Pablo Vivas",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nshort for Statistics Education↩︎"
   },
   {
     "objectID": "blog/2023-10-16-the-book-of-why/index.html",
@@ -91,38 +119,10 @@
     "text": "Animations \nI’ve always loved mathematics videos. Ever since my first calculus class, I looked for videos where the subject at hand could be portrayed. Soon, I realized the vast amount of resources in the wild. No one can deny that in the top-tier of math videos, 3b1b can be found. The narrative, the animations, I mean, everything about those videos are hard to compete against. They are just awesome. My favorite so far is the one about the monster group. Anyways, I’ve been trying to use the manim engine to make my own animations, and I think that the project of algorithmic modeling is a good excuse to learn more and create some resources. Let’s see how it goes."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Pablo Vivas",
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog entries",
     "section": "",
-    "text": "I’m Pablo. I am an enthusiastic Statistics educator and StatEd1 researcher. I love anything related to teaching and learning statistics (or as people in the wild call it: data science). I truly enjoy discussing stats with people from other fields, especially medical-related  and cognitive-related  fields. I am also passionate about scientific divulgation and breaking down “complicated processes” into simple pieces so anyone can digest them. Knowledge should be accessible to anyone. My attention span is limited, that is why I am involved in………Gosh.!! I forgot what I was going to say.\nAnyway, I am working hard so I can foster good students, awesome researchers, and outstanding data-thinkers.\nI am very lucky to be surrounded, at this stage in my life, with people who bear my not-at-all-brilliant questions and are willing to discuss, virtually anything. These awesome people are, mostly, in the Quantitative Methods in Education program and the Psychological foundations of education program.\nNose around my website to learn more….You might find something interesting 🤔. Disclaimer: It is still under construction but I will upload several projects and ideas I’ve worked on.\nLast updated: 2023-11-10"
-  },
-  {
-    "objectID": "index.html#footnotes",
-    "href": "index.html#footnotes",
-    "title": "Pablo Vivas",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nshort for Statistics Education↩︎"
-  },
-  {
-    "objectID": "projects/2022-03-18-thesis-02-aneurysms/index.html",
-    "href": "projects/2022-03-18-thesis-02-aneurysms/index.html",
-    "title": "Thesis: Analysis of brain aneurysm",
-    "section": "",
-    "text": "Source: image created with OpenAI’s DALL·E\n\n\n\nThis page will (shortly) present the data analysis made for a thesis that aimed to understand brain aneurysm in a Costa Rican cohort."
-  },
-  {
-    "objectID": "projects/2023-09-19-thesis-03-tumors/index.html",
-    "href": "projects/2023-09-19-thesis-03-tumors/index.html",
-    "title": "Thesis: Analysis of brain tumors",
-    "section": "",
-    "text": "Source: image created with OpenAI’s DALL·E\n\n\n\nThis page will (shortly) present the data analysis made for a thesis that aimed to understand brain tumors in a Costa Rican cohort."
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Thesis: Analysis of brain tumors\n\n\n\nThesis\n\n\nCosta Rica\n\n\nHospital\n\n\n\nData analysis for brain tumors data\n\n\n\nPablo Vivas\n\n\nSep 19, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPura Ciencia Tica\n\n\n\nPCT\n\n\nCosta Rica\n\n\nDivulgation\n\n\n\nScientific divulgation in Costa Rica\n\n\n\nPablo Vivas\n\n\nApr 20, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThesis: Analysis of brain aneurysm\n\n\n\nThesis\n\n\nCosta Rica\n\n\nHospital\n\n\n\nData analysis for brain aneurysm data\n\n\n\nPablo Vivas\n\n\nMar 18, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTranslation: Pensamiento Estadístico\n\n\n\nTranslation\n\n\nSpanish\n\n\nStatistics\n\n\n\nRecursos en español para enseña estadística\n\n\n\nPablo Vivas\n\n\nMar 18, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThesis: Factors influencing tennis’ match results\n\n\n\nThesis\n\n\nCosta Rica\n\n\nTennis\n\n\n\nData analysis for tennis matches data\n\n\n\nPablo Vivas\n\n\nFeb 28, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nReading Time\n\n\n\n\n\n\nOct 16, 2023\n\n\nBook review: The book of Why\n\n\n1 min\n\n\n\n\nOct 16, 2023\n\n\nMathematics animation\n\n\n1 min\n\n\n\n\nOct 15, 2023\n\n\nPersonal website\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
   }
 ]
