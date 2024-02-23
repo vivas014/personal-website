@@ -1,0 +1,19 @@
+---
+title: "International Handbook of Research in Statistics Education"
+author:
+  - name: Pablo Vivas
+    url: https://vivas014.github.io/personal-website/
+    affiliation: Master student in Quantitative Methods in Education @ UMN
+    # affiliation-url: https://ucsb-meds.github.io/ 
+date: 02-23-2024
+categories: [StatEd] # self-defined categories
+# citation: 
+#   url: https://vivas014.github.io/personal-website/...conitnue
+# image: pct-hex.png
+toc: true
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+# Book {{< fa bookmark >}}
+
+This international handbook of StatEd research has a special place in my heart 💙. My first semester @ UMN, the StatEd community gathered to review and critique one or more chapters every other week. A year later, it feels right to read it whole once again. A little bit older, a little bit wiser, but with an everlasting passion for the field. As I embark in my PhD journey, I need to come back to my roots every now and then. And this book is that: my roots, my beginning....home.
