@@ -34,9 +34,7 @@ I am a master student of the Statistics Education program at the [University of 
 
 For my master degree research, I am analyzing some of the psychometrics properties of the third version of the [Statistics Teacher Inventory](https://jse.amstat.org/v20n1/zieffler.pdf) (STI), a survey designed to collect information on teaching practices of introductory statistics instructors in a variety of institutions and departments across the United States post-secondary education system, so we can 1) create a better understanding of the instrument itself, 2) improve the instrument for latter versions, and 3) analyze the relationship between the latent constructs measured by the STI and the [Guidelines for Assessment and Instruction in Statistics Education](https://www.amstat.org/docs/default-source/amstat-documents/gaisecollege_full.pdf) (GAISE).
 
-I am also doing research with some cool research groups. These are: [Lab for Advancing Statistics Education Research](https://laser-umn.github.io/) (LASER), [Minnesota Youth Development Research Group](https://sites.google.com/view/mnydrg/home) (MyDrG), Development, Affective Neuroscience, Culture and Environment (DANCE)[^1].
-
-[^1]: It doesn't have a website yet, but check out the information of the PI and some projects of the lab [here](https://icd.umn.edu/people/kaip/).
+I am also doing research with some cool research groups. These are: [Lab for Advancing Statistics Education Research](https://laser-umn.github.io/) (LASER) and [Minnesota Youth Development Research Group](https://sites.google.com/view/mnydrg/home) (MyDrG).
 
 Overall, I like to get involved in all the stages (from planning to monitoring, and, the most fun part, performing statistical analysis) of research that, primarily, seeks to answer questions that may have a positive impact in educational settings. My research interests can be summarized into:
 
