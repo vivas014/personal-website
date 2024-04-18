@@ -38,9 +38,9 @@ website:
       - href: blog.qmd
         icon: chat-right-text
         text: Blog
-      - href: cv/cv-pablo-vivas.pdf
-        icon: filetype-pdf
-        text: cv
+      # - href: cv/cv-pablo-vivas.pdf
+      #   icon: filetype-pdf
+      #   text: cv
       - icon: github
         href: https://github.com/vivas014
       - icon: twitter
