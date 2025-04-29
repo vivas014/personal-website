@@ -4,7 +4,7 @@
     "href": "blog.html",
     "title": "Blog entries",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nReading Time\n\n\n\n\n\n\nFeb 23, 2024\n\n\nInternational Handbook of Research in Statistics Education\n\n\n1 min\n\n\n\n\nOct 16, 2023\n\n\nBook review: The book of Why\n\n\n1 min\n\n\n\n\nOct 16, 2023\n\n\nMathematics animation\n\n\n1 min\n\n\n\n\nOct 15, 2023\n\n\nPersonal website\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n\n\n\n\n\nDate\n\n\nTitle\n\n\nReading Time\n\n\n\n\n\n\nFeb 23, 2024\n\n\nInternational Handbook of Research in Statistics Education\n\n\n1 min\n\n\n\n\nOct 16, 2023\n\n\nBook review: The book of Why\n\n\n1 min\n\n\n\n\nOct 16, 2023\n\n\nMathematics animation\n\n\n1 min\n\n\n\n\nOct 15, 2023\n\n\nPersonal website\n\n\n1 min\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "blog/2023-10-15-personal-website/index.html",
@@ -14,8 +14,8 @@
     "text": "After several months thinking about going public, many hours of watching YouTube tutorials, and reviewing endless documents in the wild (some that I really liked and will highlight at some point)…I’ve finally decided that it is time to have my own personal public website. This is a way to communicate with a broader community as well as an artifact to become tidier in the presentation of my thoughts.\nAlso, and perhaps the most important fact, I will be forced to write. Writing has never been my strongest suit. It doesn’t matter if it is English, Spanish or Portuguese, my writing skills have always haunted me. So, what is the best way to get better at something? Of course: by practicing it.\nThat is why I am willing to make mistakes, to make typos, to place myself into this uncomfortable situation. What is the worst that can happen? 🧑‍💻"
   },
   {
-    "objectID": "blog/2023-10-15-personal-website/index.html#finally-fa-sailboat",
-    "href": "blog/2023-10-15-personal-website/index.html#finally-fa-sailboat",
+    "objectID": "blog/2023-10-15-personal-website/index.html#finally",
+    "href": "blog/2023-10-15-personal-website/index.html#finally",
     "title": "Personal website",
     "section": "",
     "text": "After several months thinking about going public, many hours of watching YouTube tutorials, and reviewing endless documents in the wild (some that I really liked and will highlight at some point)…I’ve finally decided that it is time to have my own personal public website. This is a way to communicate with a broader community as well as an artifact to become tidier in the presentation of my thoughts.\nAlso, and perhaps the most important fact, I will be forced to write. Writing has never been my strongest suit. It doesn’t matter if it is English, Spanish or Portuguese, my writing skills have always haunted me. So, what is the best way to get better at something? Of course: by practicing it.\nThat is why I am willing to make mistakes, to make typos, to place myself into this uncomfortable situation. What is the worst that can happen? 🧑‍💻"
@@ -63,15 +63,15 @@
     "text": "Teaching and research are equally important for me. The following quote represents my view on the matter:"
   },
   {
-    "objectID": "research.html#teaching-fa-chalkboard-user",
-    "href": "research.html#teaching-fa-chalkboard-user",
+    "objectID": "research.html#teaching",
+    "href": "research.html#teaching",
     "title": "Teaching & Research",
     "section": "Teaching ",
     "text": "Teaching \nMost of my “formal” teaching has happened in the Department of Statistics at the University of Costa Rica. There, I have taught and TAed a variety of courses ranging from basic stats to mathematical statistics. Some of them are:\n\nXS-0215: Biostatistics\nXS-1110: Introduction to Statistics I\nXS-1130: Introduction to Statistics II\nXS-2330: Continuous Probabilistic Models\nXS-3150: Statistical Principles for the Design of Experiments I\nXS-3170: Applied Statistics for Experimental Designs\nXS-3310: Theory of Statistics\n\nAt the University of Minnesota I am currently the instructor of:\n\nEPSY-3264: Basic and Applied Statistics\n\nFor more details, check my CV."
   },
   {
-    "objectID": "research.html#research-fa-graduation-cap",
-    "href": "research.html#research-fa-graduation-cap",
+    "objectID": "research.html#research",
+    "href": "research.html#research",
     "title": "Teaching & Research",
     "section": "Research ",
     "text": "Research \nI am a master student of the Statistics Education program at the University of Minnesota, under the supervision of Dr. Chelsey Legacy and Dr. Andrew Zieffler. I am studying under a Fulbright scholarship.\nFor my master degree research, I am analyzing some of the psychometrics properties of the third version of the Statistics Teacher Inventory (STI), a survey designed to collect information on teaching practices of introductory statistics instructors in a variety of institutions and departments across the United States post-secondary education system, so we can 1) create a better understanding of the instrument itself, 2) improve the instrument for latter versions, and 3) analyze the relationship between the latent constructs measured by the STI and the Guidelines for Assessment and Instruction in Statistics Education (GAISE).\nI am also doing research with some cool research groups. These are: Lab for Advancing Statistics Education Research (LASER) and Minnesota Youth Development Research Group (MyDrG).\nOverall, I like to get involved in all the stages (from planning to monitoring, and, the most fun part, performing statistical analysis) of research that, primarily, seeks to answer questions that may have a positive impact in educational settings. My research interests can be summarized into:\n\nTeaching and learning of Statistics\nMeasurement on statistics education research\nStatistics learning trajectories\nStatistical reasoning\n\nI want to continue my formal education through a PhD program that helps me answer some of the following questions:\n\nWhat is the state of teaching and learning statistics in Latin American countries at the undergraduate level?\n\nHow do Latin American students learn statistics?\nHow do Latin American statistics educators teach statistics?\nHow can GAISE provide, if at all, an useful framework to teach and learn statistics in Latin American countries?\n\nHow students most effectively learn and communicate statistical information through text?\n\nHow natural language processing can help the statistics learning process?\nWhich factors can influence students’ ability to learn complex statistical concepts from text?\n\nHow does a statistic learning trajectory look like in a introductory Bayesian class?"
@@ -102,7 +102,7 @@
     "href": "index.html",
     "title": "Pablo Vivas",
     "section": "",
-    "text": "I’m Pablo. I am an enthusiastic Statistics educator and StatEd1 researcher. I love everything related to teaching and learning statistics (or as people in the wild call it: data science). I truly enjoy discussing stats with people from other fields, especially medical-related  and cognitive-related  fields. I am also passionate about scientific divulgation and breaking down “complicated processes” into simple pieces so anyone can digest them. Knowledge should be accessible to anyone. My attention span is limited, that is why I am involved in………Gosh.!! I forgot what I was going to say.\nAnyway, I am working hard so I can foster good students, awesome researchers, and outstanding data-thinkers.\nI am very lucky to be surrounded, at this stage in my life, with people who bear my not-at-all-brilliant questions and are willing to discuss, virtually anything. These awesome people are, mostly, in the Quantitative Methods in Education program and the Psychological foundations of education program.\nNose around my website to learn more….You might find something interesting 🤔. Disclaimer: It is still under construction but I will upload several projects and ideas I’ve worked on.\nLast updated: 2024-04-18"
+    "text": "I’m Pablo. I am an enthusiastic Statistics educator and StatEd1 researcher. I love everything related to teaching and learning statistics (or as people in the wild call it: data science). I truly enjoy discussing stats with people from other fields, especially medical-related  and cognitive-related  fields. I am also passionate about scientific divulgation and breaking down “complicated processes” into simple pieces so anyone can digest them.\n\n\nNose around my website to learn more….You might find something interesting 🤔. Disclaimer: It is still under construction but I will upload several projects and ideas I’ve worked on.\nLast updated: 2025-04-28"
   },
   {
     "objectID": "index.html#footnotes",
