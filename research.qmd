@@ -26,7 +26,7 @@ At the [University of Minnesota](https://twin-cities.umn.edu/) I am currently th
 
 -   EPSY-3264: Basic and Applied Statistics
 
-For more details, check my [CV](cv/cv-pablo-vivas.pdf).
+<!-- For more details, check my [CV](cv/cv-pablo-vivas.pdf). -->
 
 ## Research {{< fa graduation-cap >}}
 
@@ -43,13 +43,13 @@ Overall, I like to get involved in all the stages (from planning to monitoring, 
 - Statistics learning trajectories
 - Statistical reasoning
 
-I want to continue my formal education through a PhD program that helps me answer some of the following questions:
+<!-- I want to continue my formal education through a PhD program that helps me answer some of the following questions: -->
 
-- What is the state of teaching and learning statistics in Latin American countries at the undergraduate level?
-    - How do Latin American students learn statistics?
-    - How do Latin American statistics educators teach statistics?
-    - How can GAISE provide, if at all, an useful framework to teach and learn statistics in Latin American countries?
-- How students most effectively learn and communicate statistical information through text?
-    - How natural language processing can help the statistics learning process?
-    - Which factors can influence students’ ability to learn complex statistical concepts from text?
-- How does a statistic learning trajectory look like in a introductory Bayesian class?
+<!-- - What is the state of teaching and learning statistics in Latin American countries at the undergraduate level? -->
+<!--     - How do Latin American students learn statistics? -->
+<!--     - How do Latin American statistics educators teach statistics? -->
+<!--     - How can GAISE provide, if at all, an useful framework to teach and learn statistics in Latin American countries? -->
+<!-- - How students most effectively learn and communicate statistical information through text? -->
+<!--     - How natural language processing can help the statistics learning process? -->
+<!--     - Which factors can influence students’ ability to learn complex statistical concepts from text? -->
+<!-- - How does a statistic learning trajectory look like in a introductory Bayesian class? -->
